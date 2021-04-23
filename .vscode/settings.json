@@ -1,5 +1,8 @@
 {
     "terminal.integrated.env.osx": {
         "AWS_PROFILE": "appsyncmasterclass"
-    }
+    },
+    "yaml.customTags": [
+        "!Ref",
+    ]
 }
