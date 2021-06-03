@@ -4,5 +4,6 @@
     },
     "yaml.customTags": [
         "!Ref",
+        "!GetAtt"
     ]
 }
